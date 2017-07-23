@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "provider":"Oxford University Press"
+  },
+  "results":[
+    {
+      "id":"mango",
+      "language":"en",
+      "lexicalEntries":[
+      {
+        "entries": [
+        {
+          "homographNumber":"000",
+          "senses":[
+          {"definitions":[
+            "a fleshy, oval, yellowish-red tropical fruit which is eaten ripe or used green for pickles or chutneys."
+          ],
+            "id":"m_en_gbus0614000.006"
+          },
+          {
+            "definitions":[
+              "the evergreen tropical Indian tree which bears the mango."
+            ],
+            "id":"m_en_gbus0614000.011"
+          },
+          {
+            "definitions":[
+              "a tropical American hummingbird that typically has green plumage with purple feathers on the wings, tail, or head."
+            ],
+            "id":"m_en_gbus0614000.018"
+          }
+        ]
+        }
+      ],
+        "language":"en",
+        "lexicalCategory":"Noun",
+        "text":"mango"
+      }
+    ],
+      "type":"headword",
+      "word":"mango"
+    }
+  ]
+}
